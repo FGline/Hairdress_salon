@@ -1,0 +1,58 @@
+.navbar-brand {
+	font-family: "Oswald", sans-serif;
+	letter-spacing: 4px;
+}
+.navbar-nav{
+	font-size: 10px;
+	margin-right: 50px;
+}
+
+
+.top-buffer{
+	right: 60px;
+	margin-top: 11px;
+	}
+
+
+#myCarousel{
+	width: 850px; 
+	margin: 0 auto;
+	margin-top: -20px;
+}
+
+.carousel-caption{
+	letter-spacing: 1px;
+	margin-bottom: auto;}
+
+#mid-btn{
+	width: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	position:relative; 
+    left: auto;
+}
+#midtable{
+	margin-top: 20px;
+}
+ #narform{
+	height: 80px;
+}
+ .checkbox{
+	margin-right: 10px;
+}
+
+#footer-info{
+	margin-bottom: 40px;}
+
+.contact{
+	margin-bottom: 4px;
+	font: 14px;}
+.logo{
+	width: 65%;
+	height: 65%;
+}
+.nav-pills{
+	margin-bottom: -4px;
+	margin-top: -4px;}
+.col-lg-4{
+	margin-bottom: 16px;}
